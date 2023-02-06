@@ -1,0 +1,24 @@
+body {
+
+    background-color: darkred;
+
+    text-align: center;
+
+}
+
+.sources {
+
+    text-align: left;
+
+    display: block;
+    margin: auto auto auto 20%;
+
+    @font-face {
+        font-family: Quicksand;
+        src: url(Quicksand Regular 400.ttf);
+    }
+
+    font-family: Quicksand;
+    font-size: 200%;
+
+}
